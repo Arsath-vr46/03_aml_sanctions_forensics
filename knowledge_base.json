@@ -1,0 +1,23 @@
+{
+  "domain": "WatchGuard AI",
+  "subtitle": "Anti-Money Laundering, SAR Filing & PEP Screening",
+  "glossary": [
+    {
+      "term": "Structuring/Smurfing",
+      "definition": "Breaking a large transaction into multiple smaller ones to stay under reporting thresholds."
+    },
+    {
+      "term": "PEP",
+      "definition": "Politically Exposed Person; an individual holding a prominent public role, subject to enhanced due diligence."
+    },
+    {
+      "term": "SAR",
+      "definition": "Suspicious Activity Report; a filing made to financial intelligence units when suspicious conduct is detected."
+    }
+  ],
+  "starter_prompts": [
+    "Detect smurfing transaction pattern",
+    "Screen OFAC SDN sanctions list",
+    "Draft SAR narrative for structuring"
+  ]
+}
